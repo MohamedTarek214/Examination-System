@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//kk
+
 namespace Examination_System.Models
 {
     public class FinalExam : Exam

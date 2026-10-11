@@ -8,7 +8,7 @@ namespace Examination_System.Models
 {
     public class AnswerList : List<Answer>, ICloneable
     {
-        //kk
+       
 
         public AnswerList() { }
 

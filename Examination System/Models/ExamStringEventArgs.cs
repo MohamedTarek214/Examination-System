@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examination_System.Models
 {
-    //kk
+    
     public class ExamStartingEventArgs : EventArgs
     {
         public Exam Exam { get; }

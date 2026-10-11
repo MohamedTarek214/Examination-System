@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Examination_System.Data
 {
-    //kk
+    
     public static class SampleData
     {
         public static Subject CreateSubject()

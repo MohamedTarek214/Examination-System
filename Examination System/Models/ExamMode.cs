@@ -8,7 +8,7 @@ namespace Examination_System.Models
 {
     public enum ExamMode
     {
-        //kk
+        
 
         Starting,
         Queued,

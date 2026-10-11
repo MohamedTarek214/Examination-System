@@ -8,7 +8,7 @@ namespace Examination_System.Models
 {
     public class ChooseAllQuestion : Question
     {
-        //kk
+        
 
         public ChooseAllQuestion(
         string header,
