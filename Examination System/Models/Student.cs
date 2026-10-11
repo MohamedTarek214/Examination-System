@@ -8,7 +8,7 @@ namespace Examination_System.Models
 {
     public class Student : ICloneable, IComparable<Student>
     {
-        //kk
+        
         public int Id { get; set; }
         public string Name { get; set; }
 

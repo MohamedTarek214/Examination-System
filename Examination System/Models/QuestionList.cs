@@ -8,7 +8,7 @@ namespace Examination_System.Models
 {
     public class QuestionList<T> : List<T> where T : Question
     {
-        //kk
+       
         private readonly string _fileName;
 
         public QuestionList(string fileName)

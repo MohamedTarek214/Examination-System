@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Examination_System.Service
 {
-    //kk
+    
     public delegate void ExamStartedHandler(object? sender, ExamStartingEventArgs e);
 
     public class ExamNotificationService

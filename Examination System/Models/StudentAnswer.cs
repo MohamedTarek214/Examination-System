@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examination_System.Models
 {
-    //kk
+    
     public class StudentAnswer
     {
         public Question Question { get; }

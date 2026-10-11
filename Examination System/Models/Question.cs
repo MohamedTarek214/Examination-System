@@ -8,7 +8,7 @@ namespace Examination_System.Models
 {
     public abstract class Question : ICloneable, IComparable<Question>
     {
-        //kk
+       
         public string Header { get; set; }
         public string Body { get; set; }
         public int Marks { get; set; }

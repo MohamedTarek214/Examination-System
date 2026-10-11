@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examination_System.Models
 {
-    //kk
+    
     public class Subject : ICloneable, IComparable<Subject>
     {
         public int Id { get; set; }
